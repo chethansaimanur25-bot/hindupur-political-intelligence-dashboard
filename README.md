@@ -1,2 +1,2 @@
 # hindupur-political-intelligence-dashboard
-Political, electoral and constituency development intelligence platform for Hindupur Parliamentary Constituency, Andhra Pradesh.
+An AI-enabled political research and constituency development intelligence platform covering the seven Assembly Constituencies of Hindupur Parliamentary Constituency, Andhra Pradesh.
